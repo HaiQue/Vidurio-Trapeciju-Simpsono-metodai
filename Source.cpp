@@ -101,20 +101,3 @@ void Simpsono(double a, double b, double h, int N, double x)
 
 	cout << "Simpsono metodas: " << ats << endl;
 }
-
-
-
-
-
-
-/*
-void misija(double g, double c)
-{
-  funkc(g, c);
-}
-void funkc(double g, double c) // pvz funkcijos
-{
-  g = f(c);
-  cout << g << endl;
-}
-*/
