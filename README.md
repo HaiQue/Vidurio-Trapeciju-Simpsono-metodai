@@ -1,0 +1,1 @@
+# Vidurio-Trapeciju-Simpsono-metodai
